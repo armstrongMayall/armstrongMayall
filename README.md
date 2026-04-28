@@ -5,7 +5,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate developer focused on building innovative web applications and data-driven solutions. I love working with modern technologies and contributing to open-source projects.
+I'm a passionate digital marketer / growth engineer focused on creating data-driven growth solutions for enterprise companies.
 
 ## 🛠️ Tech Stack
 
